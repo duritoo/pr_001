@@ -56,3 +56,6 @@ This is a .NET 8 Web API project named **dev_001** that I built and containerize
    ```
 
 ***
+## Demo
+
+![App Running in Docker](.wwwroot/screenshots/docker_run.png)
