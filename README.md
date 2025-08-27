@@ -1,10 +1,10 @@
 # pr_001
 
-Here is a simple, human-friendly version of your README.md that summarizes what you have done so far in a clear and approachable way:
+
 
 ***
 
-# dev_001
+
 
 ## About
 
