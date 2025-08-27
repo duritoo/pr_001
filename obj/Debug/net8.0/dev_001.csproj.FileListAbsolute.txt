@@ -31,3 +31,4 @@ F:\001abproject\dev_001\obj\Debug\net8.0\refint\dev_001.dll
 F:\001abproject\dev_001\obj\Debug\net8.0\dev_001.pdb
 F:\001abproject\dev_001\obj\Debug\net8.0\dev_001.genruntimeconfig.cache
 F:\001abproject\dev_001\obj\Debug\net8.0\ref\dev_001.dll
+F:\001abproject\dev_001\obj\Debug\net8.0\dev_001.sourcelink.json
